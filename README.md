@@ -28,7 +28,7 @@
   ![Alt Text](docs/구상도.png)
       
 # 4. 소개 및 시연 영상
-![언체인영상 이미지](https://img.youtube.com/vi/B4D5GOwkbSE)(https://www.youtube.com/watch?v=B4D5GOwkbSE)
+![언체인영상 이미지](https://img.youtube.com/vi/B4D5GOwkbSE/0.jpg)(https://www.youtube.com/watch?v=B4D5GOwkbSE)
 
 # 5. 사용법
   본 프로젝트는 VScode 및 React를 사용하였다.
